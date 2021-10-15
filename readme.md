@@ -1,6 +1,6 @@
 ## Theme Clock
 
-Analog clock created using using CSS and Javascript with the dark mode feature.
+Analog clock created using CSS and Javascript with the dark mode feature.
 
 ## Live Preview
 
